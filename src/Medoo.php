@@ -1,5 +1,5 @@
 <?php
-namespace Medoo;
+namespace MedooV1_2;
 
 /*!
  * Medoo database framework
